@@ -38,4 +38,4 @@ You can host it on **GitHub Pages** or open `index.html` locally for testing.
 Want to improve this project? Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📜 License
-
+This project is open-source and free to use.
