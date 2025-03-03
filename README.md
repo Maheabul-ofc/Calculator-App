@@ -20,7 +20,7 @@ A sleek and user-friendly calculator built using **HTML, CSS, and JavaScript**. 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/calculator-app.git
+ git clone https://github.com/Maheabul-ofc/Calculator-App.git
 ```
 ### 2️⃣ Open the Project
 Simply open `index.html` in your web browser.
@@ -38,4 +38,4 @@ You can host it on **GitHub Pages** or open `index.html` locally for testing.
 Want to improve this project? Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify it as needed.
+
